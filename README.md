@@ -21,6 +21,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## Trie
 |  |
 | ------- |
@@ -29,10 +30,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## Backtracking
 |  |
 | ------- |
