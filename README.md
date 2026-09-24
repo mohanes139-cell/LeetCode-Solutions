@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0016-3sum-closest](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0018-4sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
 | ------- |
