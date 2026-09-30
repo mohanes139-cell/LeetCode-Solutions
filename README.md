@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
