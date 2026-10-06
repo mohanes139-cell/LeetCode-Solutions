@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -43,6 +44,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
@@ -172,4 +176,12 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
