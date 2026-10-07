@@ -28,6 +28,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -76,6 +77,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
