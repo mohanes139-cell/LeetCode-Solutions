@@ -57,6 +57,7 @@
 | [0041-first-missing-positive](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0046-permutations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -89,6 +90,7 @@
 | [0022-generate-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
