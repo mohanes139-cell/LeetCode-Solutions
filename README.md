@@ -31,6 +31,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -158,12 +159,14 @@
 | [0021-merge-two-sorted-lists](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -194,6 +197,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Algorithm X
