@@ -59,6 +59,7 @@
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -86,6 +87,7 @@
 | [0015-3sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
@@ -95,6 +97,7 @@
 | [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
