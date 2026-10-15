@@ -66,6 +66,7 @@
 | [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -104,6 +105,7 @@
 | [0039-combination-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
