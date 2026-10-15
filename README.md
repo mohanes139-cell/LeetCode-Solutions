@@ -67,6 +67,7 @@
 | [0048-rotate-image](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
