@@ -70,6 +70,7 @@
 | [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -98,6 +99,7 @@
 | [0018-4sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
@@ -256,4 +258,8 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
