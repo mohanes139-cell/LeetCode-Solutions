@@ -69,6 +69,7 @@
 | [0051-n-queens](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -192,6 +193,7 @@
 | [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
@@ -226,6 +228,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
