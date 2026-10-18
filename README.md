@@ -20,6 +20,7 @@
 | [0043-multiply-strings](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
@@ -189,6 +190,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
