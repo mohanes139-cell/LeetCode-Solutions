@@ -45,6 +45,7 @@
 | [0058-length-of-last-word](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -84,6 +85,7 @@
 | [0063-unique-paths-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -285,6 +287,7 @@
 | [0054-spiral-matrix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
 ## Quicksort
 |  |
 | ------- |
