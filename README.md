@@ -24,6 +24,7 @@
 | [0062-unique-paths](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
