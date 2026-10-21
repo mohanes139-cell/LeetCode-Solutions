@@ -48,6 +48,7 @@
 | [0065-valid-number](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -182,6 +183,7 @@
 | [0020-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
