@@ -49,6 +49,7 @@
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -227,6 +228,7 @@
 | [0063-unique-paths-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
