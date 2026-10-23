@@ -94,6 +94,7 @@
 | [0068-text-justification](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -118,6 +119,7 @@
 | [0031-next-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0047-permutations-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
@@ -310,6 +313,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -326,4 +330,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
