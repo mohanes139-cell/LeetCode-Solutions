@@ -102,6 +102,7 @@
 | [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -127,6 +128,7 @@
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Sorting
 |  |
 | ------- |
