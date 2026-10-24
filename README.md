@@ -28,6 +28,7 @@
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [2409-count-days-spent-together](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -60,6 +61,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
