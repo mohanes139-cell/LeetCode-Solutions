@@ -104,6 +104,7 @@
 | [0079-word-search](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -213,6 +214,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
@@ -366,4 +369,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
