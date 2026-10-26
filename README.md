@@ -28,6 +28,7 @@
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [2409-count-days-spent-together](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -166,6 +167,7 @@
 | [0077-combinations](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
 |  |
@@ -309,6 +311,7 @@
 | [0029-divide-two-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
