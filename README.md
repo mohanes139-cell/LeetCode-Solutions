@@ -119,6 +119,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Trie
@@ -280,6 +281,7 @@
 | [0087-scramble-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -322,6 +325,7 @@
 | [0089-gray-code](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
