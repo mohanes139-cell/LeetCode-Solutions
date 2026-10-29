@@ -67,6 +67,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Array
 |  |
@@ -120,6 +121,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -330,6 +333,7 @@
 | [0089-gray-code](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -404,6 +408,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -418,6 +423,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -427,4 +433,12 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
