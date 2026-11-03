@@ -437,6 +437,7 @@
 | [0099-recover-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -464,6 +465,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
@@ -480,6 +482,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
