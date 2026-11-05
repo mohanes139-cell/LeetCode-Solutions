@@ -67,6 +67,7 @@
 | [0091-decode-ways](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -321,6 +322,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
