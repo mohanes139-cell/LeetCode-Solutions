@@ -214,6 +214,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0856-score-of-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -454,6 +456,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -485,6 +488,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
@@ -505,6 +509,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
