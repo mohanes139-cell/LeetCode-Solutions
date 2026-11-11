@@ -39,6 +39,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
@@ -390,6 +391,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Algorithm X
 |  |
 | ------- |
