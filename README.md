@@ -135,6 +135,7 @@
 | [1882-process-tasks-using-servers](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
