@@ -77,6 +77,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -173,6 +174,7 @@
 | [0086-partition-list](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0097-interleaving-string](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/mohanes139-cell/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
